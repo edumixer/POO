@@ -1,4 +1,4 @@
-![Trabalho 5](home/edumixer/trabalho5.jpg)
+<img src="img/trabalho5.jpg" width=300>
 
 # Considere	a	hierarquia	de	classes	representado	no	diagrama	acima.	Os	atributos são	anotados	com	um	símbolo	" - "	para	indicar	visibilidade	private e	com	um símbolo	"#"	para	indicar	visibilidade	protected.	Implemente	as	classes	com	os atributos	indicados	no	diagrama acima e	com	métodos	da	seguinte	forma:
 1. Classe	Jogador
