@@ -1,0 +1,3 @@
+interface Camuflagem {
+     public void camuflar(int cor);
+}
